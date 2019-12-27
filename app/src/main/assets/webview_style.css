@@ -1,0 +1,27 @@
+body {
+
+}
+
+figure {
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+video {
+    //margin-left: -8px;
+    //margin-right: -8px;
+    width: 100%;
+}
+
+iframe {
+    //margin-left: -8px;
+    //margin-right: -8px;
+    width: 100%;
+}

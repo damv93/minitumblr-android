@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="is_bd_encrypted">false</bool>
+    <string name="bd_name">minitumblr</string>
+    <string name="bd_password">super-secret</string>
+</resources>
