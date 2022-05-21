@@ -12,16 +12,6 @@ import com.example.minitumblr.controller.util.Constants;
 import com.example.minitumblr.controller.util.SharedPrefs;
 import com.example.minitumblr.view.fragment.DashboardFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.tumblr.jumblr.JumblrClient;
-import com.tumblr.jumblr.types.Blog;
-import com.tumblr.jumblr.types.Photo;
-import com.tumblr.jumblr.types.PhotoPost;
-import com.tumblr.jumblr.types.PhotoSize;
-import com.tumblr.jumblr.types.Post;
-import com.tumblr.jumblr.types.TextPost;
-import com.tumblr.jumblr.types.User;
-import com.tumblr.jumblr.types.Video;
-import com.tumblr.jumblr.types.VideoPost;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
@@ -34,13 +24,11 @@ import butterknife.ButterKnife;
 import android.os.Environment;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.TextView;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.nio.channels.FileChannel;
-import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements DashboardFragment.OnFragmentInteractionListener {
 
