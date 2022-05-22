@@ -4,7 +4,7 @@ Android app showcasing a Tumblr feed. The app retrieves posts from Tumblr API an
 
 
 
-https://user-images.githubusercontent.com/14865130/169715965-037ac7c3-2130-4cd4-b576-be092250cc65.mp4
+https://user-images.githubusercontent.com/14865130/169718112-7d65ebb6-535a-4710-9497-848cbaa2a250.mp4
 
 
 
