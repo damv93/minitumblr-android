@@ -4,19 +4,20 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
 
-    <string name="msg_content_not_available">Contenido no disponible</string>
-    <string name="lbl_search">Buscar</string>
-    <string name="lbl_notifications">Notificaciones</string>
-    <string name="lbl_profile">Perfil</string>
-    <string name="txt_notes">%1$s notas</string>
-    <string name="txt_logout">Cerrar sesión</string>
+    <string name="msg_content_not_available">Content not available</string>
+    <string name="lbl_search">Search</string>
+    <string name="lbl_notifications">Notifications</string>
+    <string name="lbl_profile">Profile</string>
+    <string name="txt_notes">%1$s notes</string>
+    <string name="txt_logout">Log out</string>
     <string name="txt_bd_backup">BD backup</string>
-    <string name="msg_no_posts">No se encontraron posts para mostrar</string>
+    <string name="msg_no_posts">No posts available to show</string>
+    <string name="lbl_follow">Follow</string>
 
-    <string name="lbl_login">Iniciar sesión</string>
-    <string name="lbl_username">Usuario</string>
+    <string name="lbl_login">Log in</string>
+    <string name="lbl_username">Username</string>
     <string name="lbl_password">Password</string>
-    <string name="txt_legal_terms">Acepto los <a href="#">términos y condiciones</a></string>
-    <string name="lbl_enter">INGRESAR</string>
-    <string name="lbl_forget_password">¿Olvidaste tu contraseña?</string>
+    <string name="txt_legal_terms">I accept the <a href="#">terms and conditions</a></string>
+    <string name="lbl_enter">LOG IN</string>
+    <string name="lbl_forget_password">Forgot your password?</string>
 </resources>

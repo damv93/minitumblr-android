@@ -36,7 +36,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/space_main"
         android:textColor="@color/colorTextFollow"
-        android:text="Seguir"
+        android:text="@string/lbl_follow"
         app:layout_constraintStart_toEndOf="@+id/tv_blog_name"
         app:layout_constraintTop_toTopOf="@+id/img_avatar"
         app:layout_constraintBottom_toBottomOf="@+id/img_avatar"/>
